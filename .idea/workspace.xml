@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74ca4e59-631c-4792-a931-0bbccdaf45f7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tic-tac-toe/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tic-tac-toe/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tic-tac-toe/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tic-tac-toe/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/tic-tac-toe/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tic-tac-toe/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tic-tac-toe/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tic-tac-toe/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tic-tac-toe/src/serviceWorker.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +28,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tic-tac-toe/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="229">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -1638,25 +1631,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566226067701</updated>
-      <workItem from="1566226069363" duration="212000" />
+      <workItem from="1566226069363" duration="1583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212000" />
+    <option name="totallyTimeSpent" value="1583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -1684,8 +1677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tic-tac-toe/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="229">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
